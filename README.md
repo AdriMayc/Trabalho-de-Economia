@@ -68,8 +68,6 @@ comercio_exterior_[MUNICÍPIO].xlsx contendo:
 | Assis - SP  | Exportação | 2008 | Outros  | 51004       | 5.74%      | Total   |
 | Assis - SP  | Exportação | 2008 | TOTAL   | 889199      | 100.00%    | Total   |
 
-|-------------|------------|------|---------|-------------|------------|---------|
-
 ### Aba de Importação:
 
 | Município   | Fluxo      | Ano  | Seção   | Valor (US$) | % do Total  | Tipo    |
