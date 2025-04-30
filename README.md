@@ -44,8 +44,7 @@ Município | Fluxo | Ano | Seção | Valor (US$) | % do Total | Tipo (Top 5/Tota
 
 ### Edite no código:
 
-municipio = "Assis - SP"  # Altere para seu município
-anos = range(2008, 2025, 4)  # Período de análise
+municipio = "Assis - SP"  # Altere para seu município | anos = range(2008, 2025, 4)  # Período de análise
 
 ## 📂 Exemplo de Saída
 
